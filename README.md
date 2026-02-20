@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=8D8D8D&center=true&vCenter=true&width=800&lines=Welcome+to+my+profile;I+am+Senior+Blockchain+Engineer;Senior+Svelte+Engineer;Smart+and+Fantastic+frontend" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=8D8D8D&center=true&vCenter=true&width=800&lines=Welcome+to+my+profile;I+am+Senior+Backend+Engineer;Senior+Devops+Engineer;Smart+and+Fantastic+frontend" alt="Typing SVG" />
   </a>
 </div>
 
@@ -25,42 +25,6 @@
 Welcome to my GitHub profile. I'm a blockchain and bot expert passionate about leveraging technology to build innovative solutions. 
 
 <p>
-<!-- Blockchain -->
-<img src="https://img.shields.io/badge/Blockchain-ffc8dd?style=for-the-badge&logo=ethereum&logoColor=white" />
-
-<!-- Ethereum -->
-<img src="https://img.shields.io/badge/Ethereum-a2d2ff?style=for-the-badge&logo=ethereum&logoColor=white" />
-
-<!-- Solana -->
-<img src="https://img.shields.io/badge/Solana-ffafcc?style=for-the-badge&logo=solana&logoColor=white" />
-
-<!-- Solidity -->
-<img src="https://img.shields.io/badge/Solidity-4FC00D?style=for-the-badge&logo=solidity&logoColor=white" />
-
-<!-- Rust -->
-<img src="https://img.shields.io/badge/Rust-d62828?style=for-the-badge&logo=rust&logoColor=white" />
-
-<!-- Web3.js -->
-<img src="https://img.shields.io/badge/Web3.js-90e0ef?style=for-the-badge&logo=web3.js&logoColor=white" />
-
-<!-- Bot -->
-<img src="https://img.shields.io/badge/Bot-4FC08D?style=for-the-badge&logo=bot&logoColor=white" />
-
-<!-- Telegram Bot -->
-<img src="https://img.shields.io/badge/Telegram%20Bot-3a86ff?style=for-the-badge&logo=telegram&logoColor=white" />
-
-<!-- Discord Bot -->
-<img src="https://img.shields.io/badge/Discord%20Bot-7209b7?style=for-the-badge&logo=discord&logoColor=white" />
-
-<!-- Whatsapp Bot -->
-<img src="https://img.shields.io/badge/Whatsapp%20Bot-99d98c?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
-<!-- AI -->
-<img src="https://img.shields.io/badge/AI-4FC08D?style=for-the-badge&logo=ai&logoColor=white" />
-
-<!-- Ruby -->
-<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
-
 <!-- React -->
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
 
@@ -152,6 +116,42 @@ Welcome to my GitHub profile. I'm a blockchain and bot expert passionate about l
 
 <!-- Redis -->
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+
+<!-- Blockchain -->
+<img src="https://img.shields.io/badge/Blockchain-ffc8dd?style=for-the-badge&logo=ethereum&logoColor=white" />
+
+<!-- Ethereum -->
+<img src="https://img.shields.io/badge/Ethereum-a2d2ff?style=for-the-badge&logo=ethereum&logoColor=white" />
+
+<!-- Solana -->
+<img src="https://img.shields.io/badge/Solana-ffafcc?style=for-the-badge&logo=solana&logoColor=white" />
+
+<!-- Solidity -->
+<img src="https://img.shields.io/badge/Solidity-4FC00D?style=for-the-badge&logo=solidity&logoColor=white" />
+
+<!-- Rust -->
+<img src="https://img.shields.io/badge/Rust-d62828?style=for-the-badge&logo=rust&logoColor=white" />
+
+<!-- Web3.js -->
+<img src="https://img.shields.io/badge/Web3.js-90e0ef?style=for-the-badge&logo=web3.js&logoColor=white" />
+
+<!-- Bot -->
+<img src="https://img.shields.io/badge/Bot-4FC08D?style=for-the-badge&logo=bot&logoColor=white" />
+
+<!-- Telegram Bot -->
+<img src="https://img.shields.io/badge/Telegram%20Bot-3a86ff?style=for-the-badge&logo=telegram&logoColor=white" />
+
+<!-- Discord Bot -->
+<img src="https://img.shields.io/badge/Discord%20Bot-7209b7?style=for-the-badge&logo=discord&logoColor=white" />
+
+<!-- Whatsapp Bot -->
+<img src="https://img.shields.io/badge/Whatsapp%20Bot-99d98c?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+<!-- AI -->
+<img src="https://img.shields.io/badge/AI-4FC08D?style=for-the-badge&logo=ai&logoColor=white" />
+
+<!-- Ruby -->
+<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
 
 </p>
 
