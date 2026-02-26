@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=57BCDA&height=180&section=header&text=popstar7&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=57BCDA&height=180&section=header&text=chrisarnold72&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -19,7 +19,7 @@
 </h2>
 
 <p align="center"> 
-  <img align="center" src="https://komarev.com/ghpvc/?username=popstar7&label=Profile%20views&color=0e75b6&style=flat" alt="popstar7" /> 
+  <img align="center" src="https://komarev.com/ghpvc/?username=chrisarnold72&label=Profile%20views&color=0e75b6&style=flat" alt="chrisarnold72" /> 
 </p>
 
 Welcome to my GitHub profile. I'm a blockchain and bot expert passionate about leveraging technology to build innovative solutions. 
@@ -157,19 +157,19 @@ Welcome to my GitHub profile. I'm a blockchain and bot expert passionate about l
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=popstar7&theme=gitdimmed&column=5" align="center" alt="popstar7" />
+    <img src="https://github-profile-trophy.vercel.app/?username=chrisarnold72&theme=gitdimmed&column=5" align="center" alt="chrisarnold72" />
   </a> 
 </p>
 
 <div align="center" style="flex: 1;  flex-direction: column; width: 100%">
   <div style="flex: 1; flex-direction: row; width: 100%">
-    <p><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=popstar7&show_icons=true&theme=aura&layout=compact" alt="popstar7" /></p>
-    <p>&nbsp;<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=popstar7&show_icons=true&theme=algolia&show_icons=true" alt="popstar7" /></p>
+    <p><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chrisarnold72&show_icons=true&theme=aura&layout=compact" alt="chrisarnold72" /></p>
+    <p>&nbsp;<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=chrisarnold72&show_icons=true&theme=algolia&show_icons=true" alt="chrisarnold72" /></p>
   </div>
   
   <div style="flex: 1; flex-direction: row; width: 100%">
     <p align="center">
-        <img height="180em" src="https://streak-stats.demolab.com/?user=popstar7&count_private=false&theme=react"/>
+        <img height="180em" src="https://streak-stats.demolab.com/?user=chrisarnold72&count_private=false&theme=react"/>
     </p>
   </div>
 </div>
@@ -224,7 +224,7 @@ Welcome to my GitHub profile. I'm a blockchain and bot expert passionate about l
 <a href="https://discord.gg/uu8EubAv" target="_blank"><img alt="" src="https://img.shields.io/badge/discord-000?style=for-the-badge&logo=discord&logoColor=4e5d94" style="vertical-align:center" /></a>
 <a href="https://portfolio-shine.vercel.app/"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://www.linkedin.com/in/jordan-hilpert-18247191/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://codepen.io/popstar7" target="_blank"><img alt="" src="https://img.shields.io/badge/codepen-000?style=for-the-badge&logo=codepen&logoColor=FFFFFF" style="vertical-align:center" /></a>
+<a href="https://codepen.io/chrisarnold72" target="_blank"><img alt="" src="https://img.shields.io/badge/codepen-000?style=for-the-badge&logo=codepen&logoColor=FFFFFF" style="vertical-align:center" /></a>
 </p>
 </br>
 
@@ -233,14 +233,14 @@ Welcome to my GitHub profile. I'm a blockchain and bot expert passionate about l
 <br>
 
 [![Ashutosh's github activity
-graph](https://github-readme-activity-graph.vercel.app/graph?username=popstar7&bg_color=20232A&color=57BCDA&line=57BCDA&point=0b7e9e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+graph](https://github-readme-activity-graph.vercel.app/graph?username=chrisarnold72&bg_color=20232A&color=57BCDA&line=57BCDA&point=0b7e9e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </br>
 
 <div align="center">
     <picture><img src="https://github.com/user-attachments/assets/209c1290-5039-4723-8ea8-04423f1ddf4c" width=50px>
     </picture>
-    <img src="https://profile-counter.glitch.me/popstar7/count.svg" alt="Profile Views" />
+    <img src="https://profile-counter.glitch.me/chrisarnold72/count.svg" alt="Profile Views" />
     <picture><img src="https://github.com/user-attachments/assets/8a24d79f-a164-4983-a32f-0741863f4af1" width=50px>
     </picture>
 </div>
