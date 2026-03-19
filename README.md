@@ -188,18 +188,6 @@ Welcome to my GitHub profile. I'm a blockchain and bot expert passionate about l
   </div>
 </div>
 
-- 🔭 Engineer from **B.tech Computer Science Engineering**
-
-- 🌱 Setting up practical **finalgoal**
-
-- 📫 How to reach me **shine401020@gmail.com**
-  
-- 👯Currently developing blockchain **solana and solidity Development**
-
-- 🤝 Passionate about **technology and new contacts**
-
-- ⚡ Fun fact **I love listening to music**
-
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
