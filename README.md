@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=57BCDA&height=180&section=header&text=chrisarnold72&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=57BCDA&height=180&section=header&text=Mykhailo&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -15,52 +15,14 @@
 </p>
 
 <h2  align="center"> 
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 𝒘𝒆𝒍𝒄𝒐𝒎𝒆,🙏🏻 𝑰'𝒎 Senior Blockchain Engineer.
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 𝒘𝒆𝒍𝒄𝒐𝒎𝒆,🙏🏻 𝑰'𝒎 Senior Fullstack Engineer focused on backend.
 </h2>
 
 <p align="center"> 
-  <img align="center" src="https://komarev.com/ghpvc/?username=chrisarnold72&label=Profile%20views&color=0e75b6&style=flat" alt="chrisarnold72" /> 
+  <img align="center" src="https://komarev.com/ghpvc/?username=myVos-dev&label=Profile%20views&color=0e75b6&style=flat" alt="myVos-dev" /> 
 </p>
 
-Welcome to my GitHub profile. I'm a blockchain and bot expert passionate about leveraging technology to build innovative solutions. 
-
 <p>
-<!-- React -->
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-
-<!-- Vue.js -->
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-
-<!-- Angular -->
-<img src="https://img.shields.io/badge/Angular-4FC08D?style=for-the-badge&logo=angular&logoColor=white" />
-
-<!-- Express.js -->
-<img src="https://img.shields.io/badge/Express.js-4FC08D?style=for-the-badge&logo=express&logoColor=white" />
-
-<!-- Next.js -->
-<img src="https://img.shields.io/badge/Next.js-4FC08D?style=for-the-badge&logo=next.js&logoColor=white" />
-
-<!-- MongoDB -->
-<img src="https://img.shields.io/badge/MongoDB-4FC08D?style=for-the-badge&logo=mongodb&logoColor=white" />
-
-<!-- MySQL -->
-<img src="https://img.shields.io/badge/MySQL-4FC08D?style=for-the-badge&logo=mysql&logoColor=white" />
-
-<!-- PostgreSQL -->
-<img src="https://img.shields.io/badge/PostgreSQL-4FC08D?style=for-the-badge&logo=postgresql&logoColor=white" />
-
-<!-- Firebase -->
-<img src="https://img.shields.io/badge/Firebase-4FC08D?style=for-the-badge&logo=firebase&logoColor=white" />
-
-<!-- JavaScript -->
-<img src="https://img.shields.io/badge/JavaScript-4FC08D?style=for-the-badge&logo=javascript&logoColor=white" />
-
-<!-- TypeScript -->
-<img src="https://img.shields.io/badge/TypeScript-4FC08D?style=for-the-badge&logo=typescript&logoColor=white" />
-
-<!-- Node.js -->
-<img src="https://img.shields.io/badge/Node.js-4FC08D?style=for-the-badge&logo=node.js&logoColor=white" />
-
 <!-- C++ -->
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
@@ -70,37 +32,17 @@ Welcome to my GitHub profile. I'm a blockchain and bot expert passionate about l
 <!-- Django -->
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 
-<!-- Laravel -->
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-
-<!-- PHP -->
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-
-<!-- WordPress -->
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-
-<!-- HTML -->
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-
-<!-- CSS -->
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<!-- Git -->
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
-<!-- Docker -->
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-
-<!-- Android -->
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-
-<!-- Java -->
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-
-<!-- Kotlin -->
-<img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
+<!-- Rust -->
+<img src="https://img.shields.io/badge/Rust-d62828?style=for-the-badge&logo=rust&logoColor=white" />
 
 <!-- AWS -->
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+
+<!-- AI -->
+<img src="https://img.shields.io/badge/AI-4FC08D?style=for-the-badge&logo=ai&logoColor=white" />
+
+<!-- Ruby -->
+<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
 
 <!-- Azure -->
 <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
@@ -117,6 +59,54 @@ Welcome to my GitHub profile. I'm a blockchain and bot expert passionate about l
 <!-- Redis -->
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 
+<!-- JavaScript -->
+<img src="https://img.shields.io/badge/JavaScript-4FC08D?style=for-the-badge&logo=javascript&logoColor=white" />
+
+<!-- TypeScript -->
+<img src="https://img.shields.io/badge/TypeScript-4FC08D?style=for-the-badge&logo=typescript&logoColor=white" />
+
+<!-- Node.js -->
+<img src="https://img.shields.io/badge/Node.js-4FC08D?style=for-the-badge&logo=node.js&logoColor=white" />
+
+<!-- Laravel -->
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+
+<!-- PHP -->
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+
+<!-- MongoDB -->
+<img src="https://img.shields.io/badge/MongoDB-4FC08D?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+<!-- MySQL -->
+<img src="https://img.shields.io/badge/MySQL-4FC08D?style=for-the-badge&logo=mysql&logoColor=white" />
+
+<!-- PostgreSQL -->
+<img src="https://img.shields.io/badge/PostgreSQL-4FC08D?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+<!-- Firebase -->
+<img src="https://img.shields.io/badge/Firebase-4FC08D?style=for-the-badge&logo=firebase&logoColor=white" />
+
+<!-- Express.js -->
+<img src="https://img.shields.io/badge/Express.js-4FC08D?style=for-the-badge&logo=express&logoColor=white" />
+
+<!-- Next.js -->
+<img src="https://img.shields.io/badge/Next.js-4FC08D?style=for-the-badge&logo=next.js&logoColor=white" />
+
+<!-- Git -->
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+<!-- Docker -->
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+
+<!-- Android -->
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+
+<!-- Java -->
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+
+<!-- Kotlin -->
+<img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
+
 <!-- Blockchain -->
 <img src="https://img.shields.io/badge/Blockchain-ffc8dd?style=for-the-badge&logo=ethereum&logoColor=white" />
 
@@ -128,9 +118,6 @@ Welcome to my GitHub profile. I'm a blockchain and bot expert passionate about l
 
 <!-- Solidity -->
 <img src="https://img.shields.io/badge/Solidity-4FC00D?style=for-the-badge&logo=solidity&logoColor=white" />
-
-<!-- Rust -->
-<img src="https://img.shields.io/badge/Rust-d62828?style=for-the-badge&logo=rust&logoColor=white" />
 
 <!-- Web3.js -->
 <img src="https://img.shields.io/badge/Web3.js-90e0ef?style=for-the-badge&logo=web3.js&logoColor=white" />
@@ -147,29 +134,41 @@ Welcome to my GitHub profile. I'm a blockchain and bot expert passionate about l
 <!-- Whatsapp Bot -->
 <img src="https://img.shields.io/badge/Whatsapp%20Bot-99d98c?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-<!-- AI -->
-<img src="https://img.shields.io/badge/AI-4FC08D?style=for-the-badge&logo=ai&logoColor=white" />
+<!-- WordPress -->
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 
-<!-- Ruby -->
-<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
+<!-- HTML -->
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+
+<!-- CSS -->
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+<!-- React -->
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+
+<!-- Vue.js -->
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+
+<!-- Angular -->
+<img src="https://img.shields.io/badge/Angular-4FC08D?style=for-the-badge&logo=angular&logoColor=white" />
 
 </p>
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=chrisarnold72&theme=gitdimmed&column=5" align="center" alt="chrisarnold72" />
+    <img src="https://github-profile-trophy.vercel.app/?username=myVos-dev&theme=gitdimmed&column=5" align="center" alt="myVos-dev" />
   </a> 
 </p>
 
 <div align="center" style="flex: 1;  flex-direction: column; width: 100%">
   <div style="flex: 1; flex-direction: row; width: 100%">
-    <p><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chrisarnold72&show_icons=true&theme=aura&layout=compact" alt="chrisarnold72" /></p>
-    <p>&nbsp;<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=chrisarnold72&show_icons=true&theme=algolia&show_icons=true" alt="chrisarnold72" /></p>
+    <p><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=myVos-dev&show_icons=true&theme=aura&layout=compact" alt="myVos-dev" /></p>
+    <p>&nbsp;<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=myVos-dev&show_icons=true&theme=algolia&show_icons=true" alt="myVos-dev" /></p>
   </div>
   
   <div style="flex: 1; flex-direction: row; width: 100%">
     <p align="center">
-        <img height="180em" src="https://streak-stats.demolab.com/?user=chrisarnold72&count_private=false&theme=react"/>
+        <img height="180em" src="https://streak-stats.demolab.com/?user=myVos-dev&count_private=false&theme=react"/>
     </p>
   </div>
 </div>
@@ -207,28 +206,28 @@ Welcome to my GitHub profile. I'm a blockchain and bot expert passionate about l
   🅒🅞🅝🅝🅔🅒🅣 🅦🅘🅣🅗 🅜🅔
    </p>
 <p align="center">
-
-<a href="mailto:shine401020@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=BB001B" style="vertical-align:center" /></a>
-<a href="https://discord.gg/uu8EubAv" target="_blank"><img alt="" src="https://img.shields.io/badge/discord-000?style=for-the-badge&logo=discord&logoColor=4e5d94" style="vertical-align:center" /></a>
-<a href="https://portfolio-shine.vercel.app/"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://www.linkedin.com/in/jordan-hilpert-18247191/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://codepen.io/chrisarnold72" target="_blank"><img alt="" src="https://img.shields.io/badge/codepen-000?style=for-the-badge&logo=codepen&logoColor=FFFFFF" style="vertical-align:center" /></a>
-</p>
-</br>
-
+<!-- 
+  <a href="mailto:shine401020@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=BB001B" style="vertical-align:center" /></a>
+  <a href="https://discord.gg/uu8EubAv" target="_blank"><img alt="" src="https://img.shields.io/badge/discord-000?style=for-the-badge&logo=discord&logoColor=4e5d94" style="vertical-align:center" /></a>
+  <a href="https://portfolio-shine.vercel.app/"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
+  <a href="https://www.linkedin.com/in/jordan-hilpert-18247191/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
+  <a href="https://codepen.io/myVos-dev" target="_blank"><img alt="" src="https://img.shields.io/badge/codepen-000?style=for-the-badge&logo=codepen&logoColor=FFFFFF" style="vertical-align:center" /></a>
+  </p>
+  </br>
+-->
 </div>
 
 <br>
 
 [![Ashutosh's github activity
-graph](https://github-readme-activity-graph.vercel.app/graph?username=chrisarnold72&bg_color=20232A&color=57BCDA&line=57BCDA&point=0b7e9e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+graph](https://github-readme-activity-graph.vercel.app/graph?username=myVos-dev&bg_color=20232A&color=57BCDA&line=57BCDA&point=0b7e9e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </br>
 
 <div align="center">
     <picture><img src="https://github.com/user-attachments/assets/209c1290-5039-4723-8ea8-04423f1ddf4c" width=50px>
     </picture>
-    <img src="https://profile-counter.glitch.me/chrisarnold72/count.svg" alt="Profile Views" />
+    <img src="https://profile-counter.glitch.me/myVos-dev/count.svg" alt="Profile Views" />
     <picture><img src="https://github.com/user-attachments/assets/8a24d79f-a164-4983-a32f-0741863f4af1" width=50px>
     </picture>
 </div>
